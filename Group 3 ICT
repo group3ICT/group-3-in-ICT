@@ -1,0 +1,26 @@
+<DOOCTYPE html>
+<head>
+        <title> Group 3 ICT</title>
+<style>
+      body {border:double thick #cf08ae; background: #c9eaf2 ;margin-left:1in;margin-right:1in;margin-top:1in;margin-bottom:3in;padding-left:50px; 
+	padding-right:50px;padding-bottom:100px}
+	  h1{text-align:center; font-family:lucida calligraphy;color:#1245ff;font-size:0.5in}
+	  h2{text-align:center; font-family:lucida calligraphy;color:#6513f2;font-size:0.4in}
+	  p.content{text-align:ltr;font-family: garamond bolder;color:white;margin-left:1.5in;margin-right:1.5in;text-indent:0.5in;font-size:0.25in}
+	  p.other{text-align:ltr;font-family:garamond bolder;color:white;margin-left:1.5in;margin-right:1.5in;text-indent:0.5in;font-size:0.25in}
+</style>
+</head>
+<body>
+            <h1>Group 3 ICT</h1>
+            <h2>Agnes, Aeris</h2>
+            <h2>Atienza, Aezelle</h2>
+            <h2>Gutierrez, Earbelle Grace</h2>
+            <h2>Catipon, Loraine</h2>
+            <h2>Pondivida, Princess</h2>
+            <h2>Garing, Gian Karlo</h2>
+            <h2>Pamploma, Jhester</h2>
+            <h2>Mendoza, K-ro</h2>
+            <h2>Soriano, Kim Cyruss</h2>
+            <h2>Remo, David</h2>
+</body>
+</html>
